@@ -1,4 +1,4 @@
-![head.jpeg](full-stack-development.png)
+![head.jpeg](banner.jpg)
 
 ```javascript
 const aboutMe = {
