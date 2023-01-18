@@ -8,17 +8,16 @@
 [![Twitter](https://img.shields.io/twitter/url?color=9cf&label=Twitter&logo=Twitter&logoColor=9cf&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Frichiesuarez)](https://twitter.com/richiesuarez)
 
 
-<p align="center">
- <!-- <img src="https://komarev.com/ghpvc/?username=ricardosuab93&style=plastic&color=lightgrey" alt="ricardosuab93" /> -->
+<!-- <p align="center">
+ <img src="https://komarev.com/ghpvc/?username=ricardosuab93&style=plastic&color=lightgrey" alt="ricardosuab93" />
  <a href="https://www.linkedin.com/in/ricardosuab93/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=plastic&color=blue&logo=linkedin" alt="LinkedIn"></a>
  <img src="https://img.shields.io/github/followers/ricardosuab93?color=green&logo=Github&logoColor=green&style=plastic&link=https://github.com/ricardosuab93">
  <a href="https://www.linkedin.com/in/ricardosuab93/"><img src="https://img.shields.io/badge/Twitter--_.svg?style=plastic&color=9cf&logo=linkedin" alt="Twitter"></a>
-</p>
+</p> -->
 
 
 
 ## Full Stack Developer
-## 
 
 ```javascript
 const Richard = {
@@ -40,11 +39,14 @@ const Richard = {
    architecture: ["OnPremise", "Serverless", "SPA"],
 };
 ```
+### Currently working
 
-![ricardosuab93's github stats](https://github-readme-stats.vercel.app/api?username=ricardosuab93&show_icons=true&count_private=true&theme=dracula)
+## About me
+
+![ricardosuab93's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ricardosuab93&show_icons=true&count_private=true&theme=dracula)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardosuab93&layout=compact)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ricardosuab93&layout=compact)
 
 
 
