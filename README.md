@@ -1,20 +1,12 @@
 ![head.jpeg](banner.jpg)
 
-<h1> Ricardo Suarez <img src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" width="50"></h1>
+# Ricardo Suarez  <img src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" width="50"> [![GitHub](https://img.shields.io/github/followers/ricardosuab93?color=green&logo=Github&logoColor=green&style=flat-square&link=https://github.com/ricardosuab93)](https://github.com/ricardosuab93)
 
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sudiptoghosh99/)](https://www.linkedin.com/in/sudiptoghosh99/)
-[![GitHub](https://img.shields.io/github/followers/ricardosuab93?color=green&logo=Github&logoColor=green&style=flat-square&link=https://github.com/ricardosuab93)](https://github.com/ricardosuab93)
-[![Twitter](https://img.shields.io/twitter/url?color=9cf&label=Twitter&logo=Twitter&logoColor=9cf&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Frichiesuarez)](https://twitter.com/richiesuarez)
-
-
-<!-- <p align="center">
- <img src="https://komarev.com/ghpvc/?username=ricardosuab93&style=plastic&color=lightgrey" alt="ricardosuab93" />
- <a href="https://www.linkedin.com/in/ricardosuab93/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=plastic&color=blue&logo=linkedin" alt="LinkedIn"></a>
- <img src="https://img.shields.io/github/followers/ricardosuab93?color=green&logo=Github&logoColor=green&style=plastic&link=https://github.com/ricardosuab93">
- <a href="https://www.linkedin.com/in/ricardosuab93/"><img src="https://img.shields.io/badge/Twitter--_.svg?style=plastic&color=9cf&logo=linkedin" alt="Twitter"></a>
-</p> -->
-
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ricardosuab93/)](https://www.linkedin.com/in/ricardosuab93/)
+[![Twitter](https://img.shields.io/badge/twitter-%2300acee.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/richiesuarez)
+[![Instagram](https://img.shields.io/badge/instagram-%23000000.svg?&style=flat-square&logo=instagram&logoColor=red&color=orange)](https://www.instagram.com/ricardosuab93/)
+[![YouTube](https://img.shields.io/badge/youtube-%23EE4831.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCZl42HGcJUVtQq_slMvGonw)
 
 
 ## Full Stack Developer
@@ -37,11 +29,24 @@ const Richard = {
       databases: ["mySQL", "SQLServer", "PostgreSQL", "Sequelize"],
     },
    architecture: ["OnPremise", "Serverless", "SPA"],
+   funFact:["Looking for a 10% body fat"]
 };
 ```
-### Currently working
+## Currently and continuos learning
+<p align="center" >
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
+<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
+<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+</p>
 
-## About me
+
+### About me
 
 ![ricardosuab93's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ricardosuab93&show_icons=true&count_private=true&theme=dracula)
 
