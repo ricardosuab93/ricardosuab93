@@ -1,15 +1,22 @@
 ![head.jpeg](banner.jpg)
 
-# Ricardo Suarez  <img src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" width="50"> [![GitHub](https://img.shields.io/github/followers/ricardosuab93?color=green&logo=Github&logoColor=green&style=flat-square&link=https://github.com/ricardosuab93)](https://github.com/ricardosuab93)
+# Ricardo Suarez  <img src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" width="50"> 
+# <div align="center"><img src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" width="50"> I'm Ricardo, full-stack developer 👨‍💻 🚀</div>  
 
-
+[![GitHub](https://img.shields.io/github/followers/ricardosuab93?color=green&logo=Github&logoColor=green&style=flat-square&link=https://github.com/ricardosuab93)](https://github.com/ricardosuab93)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ricardosuab93/)](https://www.linkedin.com/in/ricardosuab93/)
 [![Twitter](https://img.shields.io/badge/twitter-%2300acee.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/richiesuarez)
 [![Instagram](https://img.shields.io/badge/instagram-%23000000.svg?&style=flat-square&logo=instagram&logoColor=red&color=orange)](https://www.instagram.com/ricardosuab93/)
 [![YouTube](https://img.shields.io/badge/youtube-%23EE4831.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCZl42HGcJUVtQq_slMvGonw)
 
 
-## Full Stack Developer
+<!-- ## Full Stack Developer -->
+
+  
+
+- 🔭 I’m currently working on my portfolio.
+- 🌱 I’m currently living in Peru but I really love to travel aboard.
+- ❓ Since 2006 I've been working on tech.
 
 ```javascript
 const Richard = {
