@@ -1,6 +1,6 @@
 ![head.jpeg](banner.jpg)
 
-# Ricardo Suarez  <img src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" width="50"> 
+<!-- # Ricardo Suarez  <img src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" width="50">  -->
 # <div align="center"><img src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" width="50"> I'm Ricardo, full-stack developer 👨‍💻 🚀</div>  
 
 [![GitHub](https://img.shields.io/github/followers/ricardosuab93?color=green&logo=Github&logoColor=green&style=flat-square&link=https://github.com/ricardosuab93)](https://github.com/ricardosuab93)
