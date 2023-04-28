@@ -15,7 +15,7 @@
   
 
 - 🔭 I’m currently working on my portfolio.
-- 🌱 I’m currently living in Peru but I really love to travel aboard.
+- 🌱 I’m currently living in Peru but I really love to travel abroad.
 - ❓ Since 2006 I've been working on tech.
 
 ```javascript
