@@ -21,7 +21,7 @@
 ```javascript
 const Richard = {
    pronouns: "he" | "him",
-   askMeAbout: ["web dev", "tech", "music", "Linux", "Video Games"],
+   askMeAbout: ["web dev", "tech", "music", "Linux", "Video Games", "Movies"],
    code: ["Javascript", "HTML", "CSS", "Python", "Java", "C++", "SQL"],
    OS: ["Windows", "ArchLinux", "Ubuntu"],
    technologies: {
