@@ -33,7 +33,7 @@ const Richard = {
          js: ["Node", "Express"],
          misc: ["Bash", "Firebase", "Azure", "Google Cloud"]
       },
-      databases: ["mySQL", "SQLServer", "PostgreSQL", "Sequelize", "MONGO DB"],
+      databases: ["mySQL", "SQLServer", "PostgreSQL", "Sequelize", "MongoDB"],
     },
    architecture: ["OnPremise", "Serverless", "SPA"],
    funFact:["Looking for a 10% body fat"]
