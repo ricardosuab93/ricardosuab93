@@ -56,6 +56,7 @@ const Richard = {
 ### About me
 
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
 
 ![ricardosuab93's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ricardosuab93&show_icons=true&count_private=true&theme=dracula)
