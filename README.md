@@ -55,10 +55,6 @@ const Richard = {
 
 ### About me
 
-<!--START_SECTION:waka-pro-->
-
-<!--END_SECTION:waka-pro-->
-
 <!--START_SECTION:waka-->
 
 ```text
