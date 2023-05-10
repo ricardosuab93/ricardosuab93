@@ -17,7 +17,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN_WAKA }}
           REPOSITORY: <ricardosuab93/ricardosuab93>
           SHOW_TITLE: true
-          BLOCKS: ->
+          BLOCKS: "⣀⣄⣤⣦⣶⣷⣿"
           TIME_RANGE: all_time
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
