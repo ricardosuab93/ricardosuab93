@@ -57,6 +57,23 @@ const Richard = {
 
 <!--START_SECTION:waka-->
 
+```text
+From: 18 January 2023 - To: 10 May 2023
+
+Total Time: 158 hrs 2 mins
+
+JavaScript   65 hrs 7 mins   >>>>>>>>>>---------------   41.21 %
+SQL          59 hrs 4 mins   >>>>>>>>>----------------   37.38 %
+CSS          9 hrs 15 mins   >------------------------   05.85 %
+TypeScript   7 hrs 48 mins   >------------------------   04.95 %
+HTML         4 hrs 23 mins   >------------------------   02.77 %
+JSON         4 hrs 16 mins   >------------------------   02.71 %
+Python       3 hrs 20 mins   >------------------------   02.12 %
+Markdown     3 hrs 8 mins    -------------------------   01.99 %
+Bash         37 mins         -------------------------   00.39 %
+Git Config   33 mins         -------------------------   00.36 %
+```
+
 <!--END_SECTION:waka-->
 
 ![ricardosuab93's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ricardosuab93&show_icons=true&count_private=true&theme=dracula)
