@@ -15,7 +15,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN_WAKA }}
-          REPOSITORY: <ricardosuab93/ricardosuab93>
+          #REPOSITORY: <ricardosuab93/ricardosuab93>
           SHOW_TITLE: true
           BLOCKS: "⣀⣄⣤⣦⣶⣷⣿"
           TIME_RANGE: all_time
