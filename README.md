@@ -58,7 +58,7 @@ const Richard = {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 January 2023 - To: 08 September 2025
+From: 18 January 2023 - To: 09 September 2025
 
 Total Time: 417 hrs 6 mins
 
